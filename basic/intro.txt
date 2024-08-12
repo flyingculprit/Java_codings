@@ -1,0 +1,12 @@
+JAVA
+-----
+It's a Programming Lang.
+It is used to create a web application, desktop application.
+============================================================
+It is platform independent(Windows, Linix and mac)
+It is a open source(No need to pay for licence)
+
+JDK
+---
+JDK = JRE + JVM
+================
