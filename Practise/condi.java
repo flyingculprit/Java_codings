@@ -4,7 +4,8 @@ public static void main(String args[]){
     System.out.println("Input kudu \n AI - 10, IT - 20, CSE - ");
     Scanner vaangu = new Scanner (System.in);  
     System.out.print("dept = ");
-    int a = vaangu.nextInt();  
+    int a = vaangu.nextInt(); 
+    System.out.print("dept = ");
     
     }
 
