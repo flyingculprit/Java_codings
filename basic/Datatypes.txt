@@ -1,0 +1,10 @@
+syntax
+-------
+datatype var_name;
+int a = 20+5;
+
+age -- variable name
+20 -- value
++ -- assignment operater
+
+Datatype

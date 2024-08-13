@@ -1,0 +1,30 @@
+ OOPS
+      ===========
+      -> oops stands for Object Orinented Programming Structure.
+      -> it is a method of implementation in which is organized as collection of class method and object
+
+      Inhertiance
+      polymorphism
+      Abstraction
+      Encapsulation
+
+      
+      Create --> Class,Method and Object
+
+    How to write a program
+      =================
+      ->Project---->package----->Class---->method---->Object
+
+    Coding Stands or Stands Notation
+      ================================
+      1. Pascal Notation
+      ================================
+      Each word's first letter should be in capital.
+
+      where to use :- ProjectName,ClassName.
+
+      eg.ZohoCorporation
+
+      2. Camel Notation
+      ==============================
+    

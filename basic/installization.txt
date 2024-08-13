@@ -1,0 +1,40 @@
+
+
+  Installation
+  ===============
+  How to install JDK:
+    1) GO to google------>type jdk 1.11 download------->Click the first link
+    2) www.oracle.com-----------> Java SE development Kit 11.0.21
+    3) check for os type and system processor type
+    4) click the link which suits for your system---->jdk-11.0.21_window-x64_bin
+    5) click Download----->it will reducing to a page for Account creation
+    6) create Account ----> you will get a email for validation.
+    7) Start downloading the file.
+    8) install in your System.
+      
+
+    IDE
+    =======
+    Integrated development environment
+
+    eclips------> Opensource (95% industrial Usage)
+    RAD -----> IBM
+    jDeveloper ---> oracle.
+
+    How to install Eclips
+    ===================================
+    1) go to Google-------------->Eclips download
+    2) www.eclipse.com
+    3) Choose----------->Install your favorite desktop IDE packages-> Download packages
+    4) Choose -->Eclipse IDE for Eclipse Committers
+    5) check for os type and processor type
+    6) click the link ---->Download in the form of ZIP file 
+    7) rid=ght click on your ZIP file ----------->
+    8) Extract the file And application file
+    9) Install
+
+    JDK--a Kit provides the environment to develop and execute(run) java program
+    jre--provide an environment to run code
+    jvm--responsible for executing the java program line by line
+
+   

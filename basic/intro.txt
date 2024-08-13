@@ -10,5 +10,49 @@ JDK
 ---
 JDK = JRE + JVM
 ============================================================
-Install Eclipse
----------------
+
+
+
+
+============================================================
+
+JAVA
+============
+-> programming language
+-> it is used to create a webapplication,desktop application,Mobile appliacation
+example:
+BASIC,FORTRAN,C,C++,JAVA,RUBY,PEARL,PYTHON,..
+
+
+C/C++
+================
+-> it is a platform dependent.(itunes-->ios)
+-> it does not support muliple application at a time.(button phone)
+
+JAVA MAIN FEATURES
+================
+-> it is platform independent(Windows,linex,mac,etc,..)
+-> it is an open source(no need to pay for licence)
+-> it is simple progrming language(syntax)
+-> it is easy to run and debug --(line by line execution)(bytecode ----> machinecode(0,1))
+-> it does multithreading(thread-->process)
+Muliple process
+browse -->hear audio
+it is portable(JVM)
+WORA -- write Once Run Anywhere
+it is more secure
+
+  Encrypt   Decrypt
+
+  Hello -------->dfghj--------------->Hello
+
+JDK
+  ===========
+  -> JAVA DEVELOPMENT KIT
+  -> JDK=JRE+JVM
+
+JRE
+  ========
+  -> JAVA RUNTIME ENVIRONMENT
+  -> It is contain predefined file and libraries
+  37+21=58
