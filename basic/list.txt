@@ -1,0 +1,28 @@
+List is a predefine interface,
+methods in List
+===============
+add()
+Slice()
+get(Index)
+add(index, value)
+remove(index)
+set(index,value)
+indexOf(value)
+contain(value)
+addAll()
+rateinAll()
+removeAll()
+================
+
+Sets
+======
+Set is predefine interface which is present in the java.util package
+set is value based one
+set does not allow duplicate value
+Order of the set is based on class which is implemented
+
+Types of set (or) Classes of set
+=================================
+Hashset----random
+LinkedHashset----insertion
+TreeSet----ascending Order
