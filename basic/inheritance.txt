@@ -1,0 +1,96 @@
+Inheritance:
+==================
+we can access one class property from another class.
+by using extends keyword
+
+why?:
+============
+to reduce memory westage.
+reusable code purpose.
+
+Types of inheritance:
+======================
+Single inheritance
+Multiple inheritance
+Multilevel inheritance
+Hierarchial inheritance
+Hybrid inheritance
+
+Single inheritance:
+==================================
+combination of one parent one child class
+
+Multiple inheritance:
+====================
+more than one parent class will acess one child parallel at a time
+multiple inheritance cannot be achieved through java Class.
+
+Because 
+1)Syntax error
+2)Priority issue
+
+interface ---------> Through interface concept we can do multiple inheritance
+
+Mutilevel inheritance:
+=========================
+more than one parent will acess one chils in a tree like structure
+
+Hierarchical inheritance:
+=========================
+Combination of more than one child and one parent.
+
+Hybrid inheritance:
+======================
+Combination of multiple chilid 
+
+--------------------------------------------------------------------------------
+
+Single inheritance
+------------------------------------
+|  Parent Class                    |
+------------------------------------
+           |
+           |
+------------------------------------
+|  Child Class                    |
+------------------------------------
+
+Multiple inheritance
+------------------------------------              ------------------------------------
+|  Parent Class  A                  | ------------ |  Parent Class  B                 |
+------------------------------------              ------------------------------------
+           |                |-----------------------------------------|
+           |                |
+------------------------------------
+|  Child Class                    |
+------------------------------------
+
+Multilevel inheritance
+
+------------------------------------
+| Grant Parent Class               |    
+------------------------------------
+           |
+           |
+------------------------------------
+|  Parent Class                    |
+------------------------------------
+           |
+           |
+------------------------------------
+|  Child Class                    |
+------------------------------------
+
+Hierarchial inheritance
+
+------------------------------------
+| Grant Parent Class               |    
+------------------------------------
+           |
+           |
+------------------------------------              ------------------------------------               ------------------------------------
+|  Parent Class  A                  | ------------ |  Parent Class  B                 |--------------   Parent Class  B                 |
+------------------------------------              ------------------------------------                ------------------------------------
+
+
+================================================================================================

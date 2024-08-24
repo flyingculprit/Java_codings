@@ -1,14 +1,28 @@
-Polymorphism is considered one of the important features of Object-Oriented Programming. 
-Polymorphism allows us to perform a single action in different ways. 
-In other words, polymorphism allows you to define one interface and have multiple implementations. 
-The word “poly” means many and “morphs” means forms, So it means many forms.
+Polymorphism
+=====================
+Executing methods in more than one forms or taking more than one forms or computing one task in different ways.
 
-Types
-======
-Compile-time Polymorphism
-Runtime Polymorphism
+poly-------many
+morphism------forms
 
-Fully abstraction(interface)
-============================
+Types of Polymorphism:
+===============================
+Method overloading (compile time polymorphism / ststic binding / static polymorphism)
+--------------------------------------------------------------------------------------
+with the same method you will create multiple methods and the methods differ based on the argument and the argument are different datatype,datatype count and datatype order
 
+same class
+same method name
+diff parameter/argument
 
+the argument depends on dataType
+the argument depends on dataType number or count
+the argument depends on dataType order
+
+Method overriding(runTime polymorphism / dynamic binding/ Dynamic polymorphism)
+--------------------------------------------------------------------------------
+Whenever you are not satisfied with the business logic of your parent class method, you will create the same method with same argument in the child class and when you create the object reference and the call method , the child class method will get the preference. so you are overiding the parent class method with the child class method.
+
+same method name
+same argument / parameter
+diff class
