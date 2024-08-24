@@ -1,0 +1,17 @@
+map
+====
+Key values pair combination
+Key do not allow duplicates
+values allow duplicates
+============================
+
+Methods
+========
+clear() -- This method is used in Java Map Interface to clear and remove all of the elements or mappings from a specified Map collection.
+containsKey(Object) -- This method is used in Map Interface in Java to check whether a particular key is being mapped into the Map or not. It takes the key element as a parameter and returns True if that element is mapped in the map
+entrySet() -- This method is used in Map Interface in Java to create a set out of the same elements contained in the map. It basically returns a set view of the map or we can create a new set and store the map elements into them.
+equals(Object) -- This method is used in Java Map Interface to check for equality between two maps. It verifies whether the elements of one map passed as a parameter is equal to the elements of this map or not.
+get(Object) -- This method is used to retrieve or fetch the value mapped by a particular key mentioned in the parameter. It returns NULL when the map contains no such mapping for the key.
+isEmpty() -- This method is used to check if a map is having any entry for key and value pairs. If no mapping exists, then this returns true.
+size() -- This method is used to return the number of key/value pairs available in the map.
+values() -- This method is used in Java Map Interface to create a collection out of the values of the map. It basically returns a Collection view of the values in the HashMap.
